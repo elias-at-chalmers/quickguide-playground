@@ -1,18 +1,16 @@
-# CH32V30x Peripheral Viewer
+The tables below are generated dynamically from the SVD file using JavaScript.
 
-This is my documentation page. The tables below are generated dynamically
-from the SVD file using JavaScript.
-
-👉 Works when viewed via **GitHub Pages**:  
-`https://<your-username>.github.io/<your-repo>/`
+👉 Works when viewed via **GitHub Pages**: [https://elias-at-chalmers.github.io/quickguide-playground/](https://elias-at-chalmers.github.io/quickguide-playground/)
 
 ---
 
-## RNG Peripheral
+Let's look at some full peripherals:
 
 <div class="peripheral-view" data-peripheral-name="RNG"></div>
+<div class="peripheral-view" data-peripheral-name="GPIOA"></div>
 
-## GPIOA OUTDR Register
+
+Now let's look at a single register
 
 <div class="register-view" data-peripheral-name="GPIOA" data-register-name="OUTDR"></div>
 

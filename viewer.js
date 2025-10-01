@@ -97,7 +97,7 @@ function renderRegisterViews(xmlDoc) {
       return;
     }
     const title = document.createElement("div");
-    title.textContent = `${pName}.${rName}`;
+    // title.textContent = `${pName}.${rName}`;
     title.style.fontWeight = "bold";
     div.appendChild(title);
     div.appendChild(buildTableForRegister(reg));
