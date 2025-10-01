@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="./style.css">
 
 
 The tables below are generated dynamically from the SVD file using JavaScript.
