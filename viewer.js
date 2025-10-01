@@ -14,6 +14,7 @@ function makeBitCells(fields) {
 
 function buildTableForRegister(reg) {
   const table = document.createElement("table");
+  table.className = "svd-table";
   table.style.borderCollapse = "collapse";
   table.style.fontFamily = "monospace";
 
@@ -37,6 +38,7 @@ function buildTableForRegister(reg) {
 
 function buildPeripheralTable(periph) {
   const table = document.createElement("table");
+  table.className = "svd-table";
   table.style.borderCollapse = "collapse";
   table.style.fontFamily = "monospace";
 

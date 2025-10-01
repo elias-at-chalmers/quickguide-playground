@@ -1,0 +1,6 @@
+.svd-table {
+  font-size: 10px;              /* shrink font size */
+}
+.svd-table th, .svd-table td {
+  padding: 1px 2px;             /* reduce padding */
+}
